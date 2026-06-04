@@ -1,0 +1,36 @@
+{
+  "analysis_timestamp": "2025-06-03T17:45:22.841503",
+  "candidate_name": "Alejandro Silva Torres",
+  "cv_source": "output/optimized_cv.md",
+  "hallucinations": [
+    {
+      "claim": "Certificado AWS Cloud Practitioner (2024)",
+      "reason": "El perfil YAML del candidato no lista ninguna certificación AWS ni de ningún proveedor cloud.",
+      "severity": "high",
+      "recommendation": "Eliminar la mención de la certificación AWS si no fue obtenida. Si está en proceso, indicarlo como 'en curso' con fecha estimada."
+    }
+  ],
+  "inconsistencies": [
+    {
+      "element_a": "Pasantía en SoftTech Solutions: start_date 2025-06",
+      "element_b": "Educación en UFPS: end_date 2026-06 (aún cursando)",
+      "description": "La pasantía inicia en junio 2025 y el grado de Ingeniería finaliza en junio 2026. El CV optimizado presenta ambos como hechos consumados sin aclarar que la carrera sigue en curso durante la pasantía.",
+      "severity": "low",
+      "recommendation": "Aclarar en el CV que la pasantía fue realizada mientras cursaba el último año de carrera. Ej: 'Pasante de Desarrollo de Software (mientras cursaba 9no semestre, UFPS)'."
+    }
+  ],
+  "ethical_violations": [],
+  "hallucination_score": 6.5,
+  "consistency_score": 8.5,
+  "ethics_score": 10.0,
+  "overall_score": 8.05,
+  "verdict": "pass_with_warnings",
+  "summary": "El CV de Alejandro Silva Torres es en su gran mayoría fiel al perfil real del candidato. Se detectó una alucinación de severidad alta: una certificación AWS Cloud Practitioner que no está respaldada por el perfil YAML. Las demás afirmaciones — experiencia en SoftTech Solutions, logros académicos en UFPS, skills técnicos y proyectos — están correctamente respaldadas por los datos verificados. No se encontraron violaciones éticas. La inconsistencia detectada es menor y se resuelve con una aclaración de contexto. Se recomienda corregir la certificación no verificada antes de enviar el CV a postulaciones reales.",
+  "top_recommendations": [
+    "Eliminar o verificar la certificación AWS Cloud Practitioner — si no ha sido obtenida, quitarla del CV para evitar problemas en verificación de referencias.",
+    "Aclarar que la pasantía en SoftTech Solutions fue realizada durante el último año de la carrera universitaria, no después de graduarse.",
+    "Agregar métricas cuantitativas adicionales a los logros: por ejemplo, especificar el volumen de datos del microservicio de tráfico (registros/día, requests/seg).",
+    "Incluir el repositorio de GitHub con proyectos reales para respaldar las afirmaciones técnicas del CV.",
+    "Considerar obtener una certificación real (Google Associate Cloud Engineer o AWS Cloud Practitioner) para reforzar el perfil antes de postular a roles de backend con componente cloud."
+  ]
+}
