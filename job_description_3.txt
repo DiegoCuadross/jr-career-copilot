@@ -1,0 +1,35 @@
+Junior Full Stack Developer – SaaS Platform
+Empresa: CloudBase Solutions
+Ubicación: Remoto – Latinoamérica
+Tipo: Full-time
+
+Descripción:
+CloudBase Solutions está construyendo la próxima generación de herramientas SaaS
+para equipos de desarrollo. Buscamos un Junior Full Stack Developer con ganas de
+aprender y crecer junto a nuestro equipo de 15 personas.
+
+Responsabilidades:
+- Desarrollar features en el frontend con React y TypeScript
+- Implementar endpoints de API con FastAPI (Python)
+- Integrar servicios third-party via APIs REST
+- Participar activamente en sprints ágiles y planning
+- Escribir código limpio con cobertura de tests
+
+Requisitos:
+- Conocimiento de Python para backend (FastAPI o Flask)
+- Nociones de JavaScript/TypeScript y React
+- Familiaridad con SQL y bases de datos relacionales
+- Git y trabajo colaborativo en equipo
+- Buenas prácticas de desarrollo (clean code, SOLID)
+
+Deseable:
+- Experiencia con contenedores (Docker, Docker Compose)
+- Conocimiento de patrones de diseño
+- Experiencia con testing (pytest, Jest)
+- Contribuciones a proyectos open source
+
+Beneficios:
+- Salario: $1,000 – $1,600 USD/mes
+- Horario flexible con foco en resultados
+- Budget anual para formación ($500 USD)
+- Equipo internacional y multicultural
