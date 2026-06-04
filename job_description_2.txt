@@ -1,0 +1,34 @@
+Junior Data Engineer – E-Commerce Analytics
+Empresa: ShopMetrics Analytics
+Ubicación: Híbrido – Bogotá, Colombia
+Tipo: Full-time
+
+Descripción:
+ShopMetrics busca un Junior Data Engineer para unirse a nuestro equipo de datos
+en expansión. Serás responsable de construir pipelines de datos robustos que
+alimentan los dashboards de análisis de nuestros clientes retail.
+
+Responsabilidades:
+- Construir y mantener pipelines ETL/ELT con Python
+- Trabajar con bases de datos relacionales y no relacionales
+- Desarrollar scripts de ingesta de datos desde APIs externas
+- Colaborar con el equipo de BI para optimizar consultas SQL
+- Documentar procesos y arquitecturas de datos
+
+Requisitos:
+- Python intermedio (pandas, sqlalchemy, requests)
+- SQL intermedio (joins complejos, window functions)
+- Conocimiento de al menos una base de datos (PostgreSQL, MySQL, BigQuery)
+- Control de versiones con Git
+- Capacidad de aprendizaje autónomo
+
+Deseable:
+- Experiencia con Apache Airflow o Luigi
+- Conocimiento de Spark o procesamiento distribuido
+- Experiencia con plataformas cloud (AWS, GCP, Azure)
+
+Ofrecemos:
+- Salario: $1,000 – $1,500 USD/mes
+- Modalidad híbrida (3 días oficina)
+- Plan de carrera estructurado
+- Acceso a cursos y certificaciones
